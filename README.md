@@ -204,3 +204,15 @@ Example client user:
 }
 
 Use POST /api/auth/register to create users, then log in through the frontend or POST /api/auth/login.
+
+
+## 📸 Screenshots
+
+### Login
+![Login](docs/images/login.png)
+
+### Dashboard
+![Dashboard](docs/images/dashboard.png)
+
+### Project View
+![Project](docs/images/project.png)
